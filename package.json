@@ -1,5 +1,5 @@
 {
-  "name": "deployment-javascript",
+  "name": "backend",
   "version": "1.0.0",
   "description": "a basic which we need to deploy",
   "keywords": [
@@ -24,5 +24,6 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
